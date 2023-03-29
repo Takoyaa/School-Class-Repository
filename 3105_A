@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>indexhtml</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <div class="header">
+        <h1>Project name</h1>
+    </div>
+    <br>
+    <div class="contents">
+        <div class="news">
+            <h1 class="title">자동차운반선 부족에…자동차·해운업계 ‘맞손’</h1>
+            <p class="main">한국해운협회와 한국자동차산업협회가 완성차 수출 안정화를 위해 손을 잡았다.
+                해양수산부와 산업통상자원부는 29일 오전 용산 노보텔 앰배서더에서 ‘자동차 물류 원활화 및 자동차·해운 산업의 동반 성장을 위한 업무협약’을 했다고 밝혔다.</p>
+        </div>
+        <div class="news">
+            <h1 class="title">내일 서울 전역서 자동차세·과태료 체납 차량 집중단속</h1>
+            <p class="main">서울시는 내일(30일) 자동차세·과태료 체납 차량을 집중 단속해 번호판 영치, 강제 견인 등의 조처를 합니다.
+                단속에는 시·구 공무원 300여 명이 동시에 투입됩니다.</p>
+        </div>
+        <div class="news">
+            <h1 class="title">르노코리아자동차 "더 뉴 QM6 광고영상 공개"</h1>
+            <p class="main">르노코리아자동차가 새로운 라이프 스타일 SUV 의미를 담은 ‘The New QM6 (더 뉴 QM6)’ 광고 영상을 공개하고, SK가스 및 SK에너지와 함께 The
+                New QM6 LPe 및 퀘스트 모델을 위한 100% 고객 혜택 제공의 추가 이벤트를 진행한다고 밝혔다.</p>
+        </div>
+
+        <div class="news">
+            <h1 class="title">자동차운반선 부족에…자동차·해운업계 ‘맞손’</h1>
+            <p class="main">한국해운협회와 한국자동차산업협회가 완성차 수출 안정화를 위해 손을 잡았다.
+                해양수산부와 산업통상자원부는 29일 오전 용산 노보텔 앰배서더에서 ‘자동차 물류 원활화 및 자동차·해운 산업의 동반 성장을 위한 업무협약’을 했다고 밝혔다.</p>
+        </div>
+        <div class="news">
+            <h1 class="title">내일 서울 전역서 자동차세·과태료 체납 차량 집중단속</h1>
+            <p class="main">서울시는 내일(30일) 자동차세·과태료 체납 차량을 집중 단속해 번호판 영치, 강제 견인 등의 조처를 합니다.
+                단속에는 시·구 공무원 300여 명이 동시에 투입됩니다.</p>
+        </div>
+        <div class="news">
+            <h1 class="title">르노코리아자동차 "더 뉴 QM6 광고영상 공개"</h1>
+            <p class="main">르노코리아자동차가 새로운 라이프 스타일 SUV 의미를 담은 ‘The New QM6 (더 뉴 QM6)’ 광고 영상을 공개하고, SK가스 및 SK에너지와 함께 The
+                New QM6 LPe 및 퀘스트 모델을 위한 100% 고객 혜택 제공의 추가 이벤트를 진행한다고 밝혔다.</p>
+        </div>
+    </div>
+</body>
+
+</html>
